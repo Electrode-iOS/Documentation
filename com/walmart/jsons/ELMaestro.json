@@ -1,3 +1,4 @@
 {
+  "7.0.0": "https://repository.walmart.com/nexus/content/repositories/pangaea_snapshots/com/walmart/ios/ELMaestro/ELMaestro_Framework-dylib/7.0.0-SNAPSHOT/ELMaestro_Framework-dylib-7.0.0-20190912.003900-1.zip",
   "8.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELMaestro-dylib&a=8.0.0&v=LATEST&p=zip"
 }
