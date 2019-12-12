@@ -2,6 +2,8 @@
 "9.3.2": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.3.2&v=LATEST&p=zip",
 "9.3.3": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.3.3&v=LATEST&p=zip",
 "9.4.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.4.0&v=LATEST&p=zip",
-"9.5.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.5.0&v=LATEST&p=zip"
+"9.5.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.5.0&v=LATEST&p=zip",
+"9.6.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELAnalytics-static&a=9.6.0&v=LATEST&p=zip"
+
 
 }
