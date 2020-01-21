@@ -2,7 +2,7 @@
   "9.6.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELAnalytics-static&a=9.6.0&v=LATEST&p=zip",
   "9.6.0-xcode11": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.6.0-xcode11&v=LATEST&p=zip",
   "9.7.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELAnalytics-static&a=9.7.0&v=LATEST&p=zip",
-  "9.8.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.8.0&v=LATEST&p=zip",
+  "9.8.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELAnalytics-static&a=9.8.0&v=LATEST&p=zip",
   "9.8.1": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.8.1&v=LATEST&p=zip",
   "9.8.2": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.8.2&v=LATEST&p=zip",
   "9.8.3": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELAnalytics-static&a=9.8.3&v=LATEST&p=zip"
