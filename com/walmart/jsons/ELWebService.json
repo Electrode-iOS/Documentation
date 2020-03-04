@@ -1,3 +1,4 @@
 {
-  "7.0.1-xcode11": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELWebService-dylib&a=7.0.1-xcode11&v=LATEST&p=zip"
+  "7.0.1-xcode11": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELWebService-dylib&a=7.0.1-xcode11&v=LATEST&p=zip",
+  "8.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELWebService-dylib&a=8.0.0&v=LATEST&p=zip"
 }
