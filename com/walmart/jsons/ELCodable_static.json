@@ -1,3 +1,4 @@
 {
-  "5.0.0-xcode11": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELCodable-static&a=5.0.0-xcode11&v=LATEST&p=zip"
+  "5.0.0-xcode11": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELCodable-static&a=5.0.0-xcode11&v=LATEST&p=zip",
+  "6.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELCodable-static&a=6.0.0&v=LATEST&p=zip"
 }
