@@ -7,5 +7,6 @@
   "2.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.WalmartAuth-dylib&a=2.0.0&v=LATEST&p=zip",
   "2.1.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.WalmartAuth-dylib&a=2.1.0&v=LATEST&p=zip",
   "2.2.0-xcode12": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.WalmartAuth-dylib&a=2.2.0-xcode12&v=LATEST&p=zip",
-  "2.3.0-xcode12": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.WalmartAuth-dylib&a=2.3.0-xcode12&v=LATEST&p=zip"
+  "2.3.0-xcode12": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.WalmartAuth-dylib&a=2.3.0-xcode12&v=LATEST&p=zip",
+  "3.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.WalmartAuth-dylib&a=3.0.0&v=LATEST&p=zip"
 }
