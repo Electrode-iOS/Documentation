@@ -6,5 +6,6 @@
   "9.0.0-xcode12": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELMaestro-dylib&a=9.0.0-xcode12&v=LATEST&p=zip",
   "10.0.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_releases&g=com.walmart.ios.ELMaestro-dylib&a=10.0.0&v=LATEST&p=zip",
   "10.1.0": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELMaestro-dylib&a=10.1.0&v=LATEST&p=zip",
-  "10.1.0-lldb": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELMaestro-dylib&a=10.1.0-lldb&v=LATEST&p=zip"
+  "10.1.0-lldb": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELMaestro-dylib&a=10.1.0-lldb&v=LATEST&p=zip",
+  "10.1.1": "https://repository.walmart.com/nexus/service/local/artifact/maven/redirect?r=pangaea_snapshots&g=com.walmart.ios.ELMaestro-dylib&a=10.1.1&v=LATEST&p=zip"
 }
